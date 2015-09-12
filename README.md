@@ -1,2 +1,3 @@
 # apidotelegram
-Bots of gmae "More - Less"
+Bots "Game More-Less"
+Test @apidobots in telegram
